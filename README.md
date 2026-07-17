@@ -1,48 +1,55 @@
-# Hi 👋, I'm Joseph Jacob Anjilimoottil
+<div align="center">
 
-**Full Stack Software Engineer** — 2 years of production experience building scalable backend systems in fintech (payment infrastructure handling **150,000+ daily transactions**). MSc in Data Analytics (NCI Dublin) · BTech CSE with Honours in AI/ML. Based in Dublin, Ireland 🇮🇪
+# Joseph Jacob Anjilimoottil
 
-🌐 **Portfolio:** <a href="https://joseph-jacob-anjilimoottil.netlify.app/" target="_blank" rel="noopener noreferrer">joseph-jacob-anjilimoottil.netlify.app</a>
+### I build backend systems that move real money — 150,000+ payment transactions a day.
 
-- 🔭 Recently built: an interpretable Transformer for 4-class Alzheimer's staging across 44,000 MRI scans
-- 🌱 Interested in: backend systems at scale, data engineering, and applied ML
-- 💼 Open to: software engineering & data roles in Ireland
+**Full Stack Software Engineer** · Dublin, Ireland 🇮🇪 · MSc Data Analytics (NCI Dublin) · BTech CSE, Honours in AI/ML
 
-## 🚀 Featured Projects
+<a href="https://joseph-jacob-anjilimoottil.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-website?style=for-the-badge&logo=netlify&logoColor=white&color=teal" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-profile?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
 
-| Project | What it does | Tech |
-|---|---|---|
-| <a href="https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer" target="_blank" rel="noopener noreferrer">Alzheimer's Detection — Multi-IT Transformer</a> | 4-class Alzheimer's staging on 44k MRI scans with Triplet Attention for clinical explainability, benchmarked against 4 CNN baselines on an A100 | PyTorch, Transformers |
-| <a href="https://github.com/JosephJ7/diss-project" target="_blank" rel="noopener noreferrer">Moby Dublin — Telemetry Platform</a> | Real-time streaming pipeline over live GeoJSON telemetry from Dublin's e-bike fleet — dedup via event-time windowing, demand hotspots & rebalancing signals in a Streamlit dashboard | Spark Structured Streaming, AWS S3, MongoDB |
+</div>
 
-> 💼 At **Easebuzz** (fintech): cut backend processing load 70% with async processing, built a merchant onboarding API that turned a 3-day process into 30 minutes for 8,000+ merchants, and shipped the company's first AI support chat on Amazon Bedrock.
+## 📌 Proof, not adjectives
+
+| At Easebuzz (fintech, 22 months: Intern → SDE-2) | Impact |
+|---|---|
+| Replaced sync partner-commission calc with Python `asyncio` concurrency | **−70% backend processing load** on 150k+ daily transactions |
+| Built mass merchant onboarding API (config + approvals + bank verification) | **3 days → 30 minutes**, 8,000+ merchants, ~30% gross revenue growth |
+| Modular Django REST APIs for partner–merchant configuration | **50,000+ partners served, 98% uptime** |
+| First AI support chat on Amazon Bedrock, multi-AZ deployment | Shipped company's first production LLM feature |
+| CI/CD with Docker + Jenkins across 10 services | **Deployment: 2 days → 15 minutes** |
+
+💼 Open to **software engineering & data roles in Ireland** · 🏆 Employee of the Quarter within 3 months · promoted twice in 22 months
+
+## 🔬 Projects worth clicking
+
+### <a href="https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer" target="_blank" rel="noopener noreferrer">Alzheimer's Staging — Multi-IT Transformer</a>
+
+> **The hard part:** 80%+ of Alzheimer's-detection literature stops at binary classification. Extending an interpretable Transformer to 4-class *staging* across 44,000 MRI scans — and explaining *which brain regions drove each prediction* — is a different problem.
+
+Triplet Attention for clinically-relevant explainability · A100 training with mixed precision + cosine annealing · benchmarked against 4 CNN baselines — including the honest finding that 2D-MRI-only Transformers need volumetric/multimodal input to beat CNNs. `PyTorch` `Transformers` `Medical Imaging`
+
+### <a href="https://github.com/JosephJ7/moby-dublin-telemetry" target="_blank" rel="noopener noreferrer">Moby Dublin — Real-Time E-Bike Telemetry</a>
+
+> **The hard part:** GPS noise in dense urban zones created 14% duplicate records, and there was *no trip-level data at all* — every operational insight had to be inferred from station-state changes alone.
+
+Spark Structured Streaming over live GeoJSON with event-time windowing + watermarking · fault-tolerant Parquet/S3 + MongoDB sinks · surfaces demand hotspots, 180–200% station crowding, and rebalancing triggers in a Streamlit dashboard. `Spark` `AWS S3` `MongoDB` `Streamlit`
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · JavaScript
+**Core:** Python · JavaScript · Django · React
 
-**Backend:** Django · REST APIs · GraphQL
+**Data & Streaming:** Apache Spark · Kafka · Dagster · PostgreSQL · MongoDB · Redis
 
-**Frontend:** React · Ant Design · Tailwind CSS
+**ML:** PyTorch · TensorFlow · Keras · scikit-learn
 
-**Data Engineering:** Apache Spark · Kafka · Dagster
-
-**Machine Learning:** PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · Pandas
-
-**Databases:** PostgreSQL · MongoDB · Redis · MySQL · Elasticsearch
-
-**Cloud & DevOps:** AWS · Docker · Jenkins · Nginx · Linux · Git
+**Cloud & DevOps:** AWS · Docker · Jenkins · Nginx · Linux
 
 ## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JosephJ7&show_icons=true&theme=default" alt="Joseph's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephJ7&layout=compact&theme=default" alt="Top languages" height="165" />
-</p>
-
-## ⚡ Where to find me
-
-<p>
-  <a href="https://joseph-jacob-anjilimoottil.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-website?style=for-the-badge&logo=netlify&logoColor=white&color=teal" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-profile?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
 </p>
