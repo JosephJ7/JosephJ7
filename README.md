@@ -46,10 +46,3 @@ Spark Structured Streaming over live GeoJSON with event-time windowing + waterma
 **ML:** PyTorch · TensorFlow · Keras · scikit-learn
 
 **Cloud & DevOps:** AWS · Docker · Jenkins · Nginx · Linux
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephJ7&show_icons=true&theme=default" alt="Joseph's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephJ7&layout=compact&theme=default" alt="Top languages" height="165" />
-</p>
