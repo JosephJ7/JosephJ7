@@ -37,6 +37,12 @@ Triplet Attention for clinically-relevant explainability · A100 training with m
 
 Spark Structured Streaming over live GeoJSON with event-time windowing + watermarking · fault-tolerant Parquet/S3 + MongoDB sinks · surfaces demand hotspots, 180–200% station crowding, and rebalancing triggers in a Streamlit dashboard. `Spark` `AWS S3` `MongoDB` `Streamlit`
 
+### <a href="https://github.com/JosephJ7/SUMBUD-AI-Research-Assistant" target="_blank" rel="noopener noreferrer">SUMBUD — AI Research Assistant</a>
+
+> **The hard part:** literature review makes you open 20 PDFs to find the 5 that matter. SUMBUD compresses that first pass — parsing messy, inconsistently-formatted papers into one scannable, summarized table.
+
+Streamlit app with two modes: filter a papers dataset by domain, or upload PDFs directly · extracts metadata + abstracts via PyPDF2, summarizes each with DistilBART, and detects which ML methods a paper used · exports to CSV. `Hugging Face Transformers` `Streamlit` `PyPDF2` `NLTK`
+
 ## 🛠️ Tech Stack
 
 **Core:** Python · JavaScript · Django · React
