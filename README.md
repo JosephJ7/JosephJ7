@@ -12,6 +12,8 @@
   <img src="assets/joseph-banner-light.png" alt="Joseph Jacob Anjilimoottil — Full-Stack Engineer, Dublin, Ireland. MSc Data Analytics. Open to work." width="820" />
 </picture>
 
+<br><br>
+
 <!-- Typing line: blue that reads well on both themes -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=I+ship+end-to-end+products.;Django+APIs+%E2%86%92+React+frontends+%E2%86%92+AWS+ML.;150k+daily+transactions.+70%25+load+cut." alt="I ship end-to-end products — Django APIs, React frontends, AWS ML" />
 
@@ -49,21 +51,21 @@ Full-Stack Engineer in **Dublin, Ireland** with production experience on a payme
 
 <div align="center">
 
-<!-- Flat badges with GitHub-native greys/blues so they sit calmly in both themes -->
-<img src="https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Django-24292F?style=flat-square&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/MongoDB-24292F?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<!-- Brand-color badges — readable on both GitHub themes -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff" alt="Django" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" alt="Redis" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
 <br>
-<img src="https://img.shields.io/badge/AWS-24292F?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Apache%20Spark-24292F?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-<img src="https://img.shields.io/badge/PyTorch-24292F?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/GraphQL-24292F?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-<img src="https://img.shields.io/badge/Jenkins-24292F?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=fff" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff" alt="PyTorch" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" alt="GraphQL" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff" alt="Jenkins" />
 
 </div>
 
@@ -73,15 +75,70 @@ Full-Stack Engineer in **Dublin, Ireland** with production experience on a payme
 
 ## 🚀 Featured Projects & Portfolio
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| <a href="https://github.com/JosephJ7/moby-dublin-telemetry" target="_blank" rel="noopener noreferrer"><b>Moby Dublin — Spark telemetry</b></a> | Event-time-windowed Spark Structured Streaming pipeline with checkpointed, fault-tolerant aggregation for fleet telemetry. 14% fewer duplicate GPS records. | `Spark` `AWS S3` `MongoDB` `Parquet` |
-| <a href="https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer" target="_blank" rel="noopener noreferrer"><b>Alzheimer's detection — Multi-IT Transformer</b></a> | Interpretable transformer with triplet attention staging Alzheimer's across 4 classes on 44,000 MRI scans, benchmarked against 4 CNN baselines. | `PyTorch` `Transformers` `A100` |
-| **AI support chat — Amazon Bedrock** *(private, Easebuzz)* | Production LLM support assistant grounded in internal product policy, with guardrails, conversation state and server-side model access. | `Bedrock` `Python` `Django` |
-| <a href="https://github.com/JosephJ7/CNN--Skin-Caner-Detection" target="_blank" rel="noopener noreferrer"><b>Skin cancer classification</b></a> | CNN lesion classifiers (InceptionV3, MobileNetV2, VGG) with transfer learning and class-weighted loss. 86% accuracy. | `TensorFlow` `Keras` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🚌 Moby Dublin — Spark telemetry
+<a href="https://github.com/JosephJ7/moby-dublin-telemetry" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff" alt="View repo" /></a>
+
+Event-time-windowed Spark Structured Streaming pipeline with fault-tolerant aggregation for a distributed fleet telemetry system.
+
+- 14% reduction in duplicate GPS records
+- Checkpointed, fault-tolerant aggregation
+- Partitioned Parquet lake on S3
+
+`Apache Spark` · `AWS S3` · `MongoDB` · `Parquet`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🧠 Alzheimer's disease detection
+<a href="https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff" alt="View repo" /></a>
+
+Interpretable Multi-IT Transformer with Triplet Attention staging Alzheimer's across 4 classes on 44,000 MRI scans.
+
+- 4-class staging with attention-map interpretability
+- Benchmarked against 4 CNN baselines
+- Trained on NVIDIA A100 with mixed precision
+
+`PyTorch` · `Transformers` · `NVIDIA A100`
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 💬 AI support chat — Amazon Bedrock
+
+Production LLM-powered customer support chat at Easebuzz *(private)*, grounded in internal product policy and deployed across merchant support operations.
+
+- Retrieval over internal docs for grounded answers
+- Django service with guardrails & conversation state
+- Server-side model access, no key exposure
+
+`Amazon Bedrock` · `Python` · `Django`
+
+</td>
+    <td width="50%" valign="top">
+
+### 🩺 Skin cancer classification
+<a href="https://github.com/JosephJ7/CNN--Skin-Caner-Detection" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff" alt="View repo" /></a>
+
+CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG variants with augmentation.
+
+- 86% classification accuracy
+- Transfer learning + fine-tuning
+- Class-weighted loss for imbalance
+
+`TensorFlow` · `Keras` · `Transfer Learning`
+
+</td>
+  </tr>
+</table>
 
 <details>
-<summary><b>📂 More projects</b></summary>
+<summary><b>📂 More projects (click to expand)</b></summary>
 
 <br>
 
@@ -89,12 +146,6 @@ Full-Stack Engineer in **Dublin, Ireland** with production experience on a payme
 - <a href="https://github.com/JosephJ7/TAPF-SCM" target="_blank" rel="noopener noreferrer"><b>Akshaya Patra fleet tracker</b></a> — Java logistics tool tracking food vans from kitchens to schools, replacing manual paper logs.
 
 </details>
-
-<p align="center">
-  <a href="https://joseph-jacob-anjilimoottil.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View%20full%20portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=fff" alt="View full portfolio" />
-  </a>
-</p>
 
 ---
 
