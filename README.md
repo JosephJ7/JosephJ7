@@ -1,19 +1,39 @@
 <div align="center">
 
 <!--
-  BANNER: upload `joseph-terminal-banner.png` into an `assets/` folder in this repo.
-  If you haven't uploaded it yet, this image will appear broken until you do.
+  BANNERS: upload BOTH images into an `assets/` folder in this repo:
+    assets/joseph-banner-light.png
+    assets/joseph-banner-dark.png
+  GitHub automatically shows the right one for the viewer's theme.
 -->
-<img src="assets/joseph-terminal-banner.png" alt="Joseph Jacob Anjilimoottil — Full-Stack Engineer, MSc Data Analytics, Dublin, open to work" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/joseph-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/joseph-banner-light.png">
+  <img src="assets/joseph-banner-light.png" alt="Joseph Jacob Anjilimoottil — Full-Stack Engineer, Dublin, Ireland. MSc Data Analytics. Open to work." width="820" />
+</picture>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=I+ship+end-to-end+products.;From+Django+APIs+to+React+frontends+to+AWS+ML.;150k+daily+transactions.+70%25+load+cut.+8k+merchants." alt="I ship end-to-end products — from Django APIs to React frontends to AWS ML" />
+<!-- Typing line: blue that reads well on both themes -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=I+ship+end-to-end+products.;Django+APIs+%E2%86%92+React+frontends+%E2%86%92+AWS+ML.;150k+daily+transactions.+70%25+load+cut." alt="I ship end-to-end products — Django APIs, React frontends, AWS ML" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square&logo=briefcase&logoColor=fff" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Dublin,%20IE-3b82f6?style=flat-square" alt="Dublin, Ireland" />
-  <img src="https://img.shields.io/badge/Last%20Role-SDE%202%20%E2%80%A2%20Easebuzz-a855f7?style=flat-square" alt="Last role: SDE 2 at Easebuzz" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-1F883D?style=flat-square" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Dublin,%20Ireland-0969DA?style=flat-square" alt="Dublin, Ireland" />
+  <img src="https://img.shields.io/badge/Last%20role-SDE%202%20@%20Easebuzz-57606A?style=flat-square" alt="Last role: SDE 2 at Easebuzz" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="Connect on LinkedIn" />
+  </a>
+  <!-- Replace PORTFOLIO_URL with your live portfolio link -->
+  <a href="PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=fff" alt="View portfolio" />
+  </a>
+  <a href="mailto:josephjacobie2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-57606A?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email Joseph" />
+  </a>
 </p>
 
 </div>
@@ -22,11 +42,9 @@
 
 ## 👋 About me
 
-I'm a **Full-Stack Engineer** based in **Dublin, Ireland**, with a fresh **MSc in Data Analytics** from the National College of Ireland and production experience at **Easebuzz**, where I was promoted twice in 22 months (Intern → SDE 1 → SDE 2).
+I'm a **Full-Stack Engineer** in **Dublin, Ireland** with a fresh **MSc in Data Analytics** (National College of Ireland) and production experience at **Easebuzz**, where I was promoted twice in 22 months (Intern → SDE 1 → SDE 2).
 
-I own products end to end — from React dashboards and Django REST APIs to async Python pipelines and AWS-backed ML services. The work is measurable: faster onboarding, cheaper processing, and self-serve scale.
-
-> *"I don't just write code; I design systems that solve real problems."*
+I own products end to end — React dashboards, Django REST APIs, async Python pipelines and AWS-backed ML services. The work is measurable: faster onboarding, cheaper processing, self-serve scale.
 
 **Currently:** open to full-stack, backend, data and ML engineering roles — Dublin or remote.
 
@@ -34,28 +52,33 @@ I own products end to end — from React dashboards and Django REST APIs to asyn
 
 ## 💡 Why me in 30 seconds
 
-- **I ship measurable impact.** At Easebuzz I cut backend load by **70%**, collapsed merchant onboarding from **3 days → 30 minutes** for **8,000+ merchants**, and helped drive **30% gross revenue growth**.
-- **I own products end to end.** React frontends, Django REST APIs, async Python services, AWS infrastructure, Docker/Jenkins pipelines, and production ML on Bedrock.
-- **I learn fast and lead early.** Promoted twice in 22 months, Employee of the Quarter within 3 months, and recently completed an MSc in Data Analytics with distinction-level project work.
+- **Measurable impact.** Cut backend load by **70%**, collapsed merchant onboarding from **3 days → 30 minutes** for **8,000+ merchants**, contributed to **30% gross revenue growth**.
+- **End-to-end ownership.** React/TypeScript frontends, Django REST APIs, async Python services, AWS infrastructure, Docker/Jenkins pipelines, production LLMs on Bedrock.
+- **Fast growth.** Promoted twice in 22 months, Employee of the Quarter within 3 months, MSc completed alongside distinction-level research work.
 
 ---
 
 ## 🛠️ Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff" alt="Django" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=fff" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" alt="Redis" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" alt="GraphQL" />
-</p>
+<div align="center">
+
+<!-- Flat badges with GitHub-native greys/blues so they sit calmly in both themes -->
+<img src="https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-24292F?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/MongoDB-24292F?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<br>
+<img src="https://img.shields.io/badge/AWS-24292F?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Apache%20Spark-24292F?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/PyTorch-24292F?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/GraphQL-24292F?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+<img src="https://img.shields.io/badge/Jenkins-24292F?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+
+</div>
 
 **Strongest in:** Python · Django REST · PostgreSQL · React/TypeScript · AWS · Spark · PyTorch
 
@@ -63,97 +86,31 @@ I own products end to end — from React dashboards and Django REST APIs to asyn
 
 ## 💼 Experience
 
-### Easebuzz — Intern → SDE 1 → SDE 2 · Jan 2023 — Nov 2024
+**Easebuzz — SDE 2** · Jan 2023 – Nov 2024
+Payments platform handling **150k+ daily transactions**.
 
-Owned full-stack products behind a payments platform handling **150,000+ daily transactions** — React self-serve dashboards, Django REST APIs, async decision pipelines in Python asyncio, and AWS-deployed ML services.
-
-| Impact | Detail |
-|--------|--------|
-| ⚡ **70% load cut** | Replaced synchronous logic with async Python pipelines |
-| ⏱️ **30 min onboarding** | Down from 3 days for **8,000+ merchants** |
-| 💰 **30% revenue growth** | Via scaled self-serve merchant onboarding |
-| 🚀 **15 min deploys** | Down from 2 days across 10 services (Docker + Jenkins) |
-| 🌐 **50,000+ partners** | Reusable Django REST infrastructure, zero major incidents |
-| 🤖 **AI support chat** | First in-house LLM assistant, built on Amazon Bedrock |
-
-### Akshaya Patra Foundation — Software Intern · 2021
-
-Built a Java logistics tool tracking food vans from kitchens to schools, replacing manual paper logs.
+- ⚡ Cut backend load by **70%** with async Python pipelines
+- ⏱️ Reduced merchant onboarding from **3 days → 30 minutes** for **8,000+ merchants**
+- 🤖 Built the first in-house LLM support assistant on Amazon Bedrock
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🚌 Moby Dublin — Spark telemetry
-[![Repo](https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/moby-dublin-telemetry)
-
-Event-time-windowed Spark Structured Streaming pipeline with fault-tolerant aggregation for a distributed fleet telemetry system.
-
-- 14% reduction in duplicate GPS records
-- Checkpointed, fault-tolerant aggregation
-- Partitioned Parquet lake on S3
-
-`Apache Spark` · `AWS S3` · `MongoDB` · `Parquet`
-
-</td>
-    <td width="50%" valign="top">
-
-### 🧠 Alzheimer's disease detection
-[![Repo](https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer)
-
-Interpretable Multi-IT Transformer with Triplet Attention staging Alzheimer's across 4 classes on 44,000 MRI scans.
-
-- 4-class staging with attention-map interpretability
-- Benchmarked against 4 CNN baselines
-- Trained on NVIDIA A100 with mixed precision
-
-`PyTorch` · `Transformers` · `NVIDIA A100`
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💬 AI support chat — Amazon Bedrock
-[![Repo](https://img.shields.io/badge/Private%20repo%20%E2%80%A2%20Easebuzz-475569?style=flat-square&logo=github&logoColor=fff)](#)
-
-Production LLM-powered customer support chat at Easebuzz, grounded in internal product policy and deployed across merchant support operations.
-
-- Retrieval over internal docs for grounded answers
-- Django service with guardrails & conversation state
-- Server-side model access, no key exposure
-
-`Amazon Bedrock` · `Python` · `Django`
-
-</td>
-    <td width="50%" valign="top">
-
-### 🩺 Skin cancer classification
-[![Repo](https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/CNN--Skin-Caner-Detection)
-
-CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG variants with augmentation.
-
-- 86% classification accuracy
-- Transfer learning + fine-tuning
-- Class-weighted loss for imbalance
-
-`TensorFlow` · `Keras` · `Transfer Learning`
-
-</td>
-  </tr>
-</table>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Moby Dublin — Spark telemetry](https://github.com/JosephJ7/moby-dublin-telemetry)** | Event-time-windowed Spark Structured Streaming pipeline with checkpointed, fault-tolerant aggregation for fleet telemetry. 14% fewer duplicate GPS records. | `Spark` `AWS S3` `MongoDB` `Parquet` |
+| **[Alzheimer's detection — Multi-IT Transformer](https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer)** | Interpretable transformer with triplet attention staging Alzheimer's across 4 classes on 44,000 MRI scans, benchmarked against 4 CNN baselines. | `PyTorch` `Transformers` `A100` |
+| **AI support chat — Amazon Bedrock** *(private, Easebuzz)* | Production LLM support assistant grounded in internal product policy, with guardrails, conversation state and server-side model access. | `Bedrock` `Python` `Django` |
+| **[Skin cancer classification](https://github.com/JosephJ7/CNN--Skin-Caner-Detection)** | CNN lesion classifiers (InceptionV3, MobileNetV2, VGG) with transfer learning and class-weighted loss. 86% accuracy. | `TensorFlow` `Keras` |
 
 <details>
-<summary><b>📂 More projects (click to expand)</b></summary>
+<summary><b>📂 More projects</b></summary>
 
 <br>
 
-- **[Data mining & ML](https://github.com/JosephJ7/Data-mining-and-machine-learning-project)** — End-to-end analysis with cleaning, feature engineering, EDA and supervised models in scikit-learn under cross-validation.
-- **[Akshaya Patra fleet tracker](https://github.com/JosephJ7/TAPF-SCM)** — Java-based logistics tool tracking food vans from kitchens to schools, replacing manual paper logs.
+- **[Data mining & ML](https://github.com/JosephJ7/Data-mining-and-machine-learning-project)** — End-to-end analysis: cleaning, feature engineering, EDA and supervised models under cross-validation.
+- **[Akshaya Patra fleet tracker](https://github.com/JosephJ7/TAPF-SCM)** — Java logistics tool tracking food vans from kitchens to schools, replacing manual paper logs.
 
 </details>
 
@@ -161,11 +118,8 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 
 ## 🎓 Education
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| **MSc Data Analytics** | National College of Ireland, Dublin | Jan 2025 — Jan 2026 |
-| **B.Tech Computer Science & Engineering** | Symbiosis Institute of Technology, Pune | Jul 2019 — May 2023 |
-| **Honours in AI & ML** | Symbiosis Institute of Technology, Pune | Jul 2019 — May 2023 |
+- **MSc Data Analytics** — National College of Ireland, Dublin
+- **B.Tech Computer Science & Engineering** — Symbiosis Institute of Technology, Pune
 
 ---
 
@@ -181,46 +135,34 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 
 <div align="center">
 
-<a href="https://github.com/JosephJ7">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephJ7&theme=tokyonight" alt="GitHub profile summary for JosephJ7" width="95%" />
-</a>
+<!-- Stats cards: theme swaps with the viewer's GitHub theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosephJ7&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosephJ7&theme=default" alt="GitHub stats for JosephJ7" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosephJ7&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosephJ7&theme=default" alt="Most used languages for JosephJ7" height="180" />
+</picture>
 
 <br><br>
 
-<a href="https://github.com/JosephJ7">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosephJ7&theme=tokyonight" alt="GitHub stats for JosephJ7" height="170" />
-</a>
-<a href="https://github.com/JosephJ7">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosephJ7&theme=tokyonight" alt="Most used languages" height="170" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/JosephJ7">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephJ7&theme=react-dark&hide_border=true&bg_color=0f172a&color=60a5fa&line=a78bfa&point=f472b6" alt="Contribution graph" width="95%" />
-</a>
+<!-- Contribution graph: blue in dark mode, deeper blue in light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/JosephJ7">
+  <img src="https://ghchart.rshah.org/0969DA/JosephJ7" alt="JosephJ7 GitHub contribution graph" width="90%" />
+</picture>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
-  </a>
-  <a href="mailto:josephjacobie2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" />
-  </a>
-</p>
-
 <div align="center">
 
 ### Ready to hire? Let's talk.
 
-**I'm open to full-stack, backend, data and ML engineering roles in Dublin and remote.**
+**Open to full-stack, backend, data and ML engineering roles — Dublin or remote.**
 
-If you're hiring or know of a role that fits, [send me an email](mailto:josephjacobie2001@gmail.com) or [message me on LinkedIn](https://www.linkedin.com/in/joseph-jacob-anjilimoottil/). I reply within 24 hours.
+[Email me](mailto:josephjacobie2001@gmail.com) · [Message me on LinkedIn](https://www.linkedin.com/in/joseph-jacob-anjilimoottil/) — I reply within 24 hours.
 
 </div>
