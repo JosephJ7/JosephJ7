@@ -32,17 +32,6 @@ I own products end to end — from React dashboards and Django REST APIs to asyn
 
 ---
 
-## 🎯 Roles I'm open to
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-2563eb?style=for-the-badge&logo=codeforces&logoColor=fff" alt="Full-Stack Engineer" />
-  <img src="https://img.shields.io/badge/Backend%20Engineer-2563eb?style=for-the-badge&logo=serverfault&logoColor=fff" alt="Backend Engineer" />
-  <img src="https://img.shields.io/badge/Data%20Engineer-2563eb?style=for-the-badge&logo=databricks&logoColor=fff" alt="Data Engineer" />
-  <img src="https://img.shields.io/badge/ML%20Engineer-2563eb?style=for-the-badge&logo=tensorflow&logoColor=fff" alt="ML Engineer" />
-</p>
-
----
-
 ## 💡 Why me in 30 seconds
 
 - **I ship measurable impact.** At Easebuzz I cut backend load by **70%**, collapsed merchant onboarding from **3 days → 30 minutes** for **8,000+ merchants**, and helped drive **30% gross revenue growth**.
@@ -192,12 +181,24 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JosephJ7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=percentile" alt="GitHub stats for JosephJ7" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJ7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0&langs_count=8" alt="Most used languages" height="165" />
+<a href="https://github.com/JosephJ7">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephJ7&theme=tokyonight" alt="GitHub profile summary for JosephJ7" width="95%" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephJ7&theme=react-dark&hide_border=true&bg_color=0f172a&color=60a5fa&line=a78bfa&point=f472b6" alt="Contribution graph" width="95%" />
+<a href="https://github.com/JosephJ7">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosephJ7&theme=tokyonight" alt="GitHub stats for JosephJ7" height="170" />
+</a>
+<a href="https://github.com/JosephJ7">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosephJ7&theme=tokyonight" alt="Most used languages" height="170" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/JosephJ7">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephJ7&theme=react-dark&hide_border=true&bg_color=0f172a&color=60a5fa&line=a78bfa&point=f472b6" alt="Contribution graph" width="95%" />
+</a>
 
 </div>
 
