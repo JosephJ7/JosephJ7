@@ -1,8 +1,8 @@
 <div align="center">
 
 <!--
-  BANNER: upload `joseph-terminal-banner.png` to this repo (e.g. into an `assets/` folder)
-  and it will render below. Replace the src path if you put it somewhere else.
+  BANNER: upload `joseph-terminal-banner.png` into an `assets/` folder in this repo.
+  If you haven't uploaded it yet, this image will appear broken until you do.
 -->
 <img src="assets/joseph-terminal-banner.png" alt="Joseph Jacob Anjilimoottil — Full-Stack Engineer, MSc Data Analytics, Dublin, open to work" width="100%" />
 
@@ -30,21 +30,24 @@ I own products end to end — from React dashboards and Django REST APIs to asyn
 
 **Currently:** open to full-stack, backend, data and ML engineering roles — Dublin or remote.
 
-<details>
-<summary><b>🏆 Recognition & highlights (click to expand)</b></summary>
+---
 
-<br>
+## 🎯 Roles I'm open to
 
-- 🏅 **Employee of the Quarter** within 3 months of joining Easebuzz
-- 🚀 **Promoted twice in 22 months** — Intern → SDE 1 → SDE 2
-- 🥈 **Rank 2**, SIT CodeChef "The Bug Detective"
-- 📉 Cut backend processing load by **70%** across 150,000+ daily transactions
-- ⏱️ Collapsed merchant onboarding from **3 days → 30 minutes** for 8,000+ merchants
-- 💰 Contributed to **30% gross revenue growth** via scaled onboarding
-- 🚀 Reduced deployment time from **2 days → 15 minutes** across 10 services
-- 🌐 Built reusable Django REST infrastructure serving **50,000+ partners**
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-2563eb?style=for-the-badge&logo=codeforces&logoColor=fff" alt="Full-Stack Engineer" />
+  <img src="https://img.shields.io/badge/Backend%20Engineer-2563eb?style=for-the-badge&logo=serverfault&logoColor=fff" alt="Backend Engineer" />
+  <img src="https://img.shields.io/badge/Data%20Engineer-2563eb?style=for-the-badge&logo=databricks&logoColor=fff" alt="Data Engineer" />
+  <img src="https://img.shields.io/badge/ML%20Engineer-2563eb?style=for-the-badge&logo=tensorflow&logoColor=fff" alt="ML Engineer" />
+</p>
 
-</details>
+---
+
+## 💡 Why me in 30 seconds
+
+- **I ship measurable impact.** At Easebuzz I cut backend load by **70%**, collapsed merchant onboarding from **3 days → 30 minutes** for **8,000+ merchants**, and helped drive **30% gross revenue growth**.
+- **I own products end to end.** React frontends, Django REST APIs, async Python services, AWS infrastructure, Docker/Jenkins pipelines, and production ML on Bedrock.
+- **I learn fast and lead early.** Promoted twice in 22 months, Employee of the Quarter within 3 months, and recently completed an MSc in Data Analytics with distinction-level project work.
 
 ---
 
@@ -127,6 +130,7 @@ Interpretable Multi-IT Transformer with Triplet Attention staging Alzheimer's ac
     <td width="50%" valign="top">
 
 ### 💬 AI support chat — Amazon Bedrock
+[![Repo](https://img.shields.io/badge/Private%20repo%20%E2%80%A2%20Easebuzz-475569?style=flat-square&logo=github&logoColor=fff)](#)
 
 Production LLM-powered customer support chat at Easebuzz, grounded in internal product policy and deployed across merchant support operations.
 
@@ -176,6 +180,14 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 
 ---
 
+## 🏆 Recognition
+
+- 🏅 **Employee of the Quarter** within 3 months of joining Easebuzz
+- 🚀 **Promoted twice in 22 months** — Intern → SDE 1 → SDE 2
+- 🥈 **Rank 2**, SIT CodeChef "The Bug Detective"
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -204,7 +216,10 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 
 <div align="center">
 
-**Open to full-stack, backend, data and ML engineering roles in Dublin and remote.**
-If you're hiring or know of a role that fits, I'd love to chat.
+### Ready to hire? Let's talk.
+
+**I'm open to full-stack, backend, data and ML engineering roles in Dublin and remote.**
+
+If you're hiring or know of a role that fits, [send me an email](mailto:josephjacobie2001@gmail.com) or [message me on LinkedIn](https://www.linkedin.com/in/joseph-jacob-anjilimoottil/). I reply within 24 hours.
 
 </div>
