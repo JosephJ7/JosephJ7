@@ -12,8 +12,6 @@
   <img src="assets/joseph-banner-light.png" alt="Joseph Jacob Anjilimoottil — Full-Stack Engineer, Dublin, Ireland. MSc Data Analytics. Open to work." width="820" />
 </picture>
 
-<br><br>
-
 <!-- Typing line: blue that reads well on both themes -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=I+ship+end-to-end+products.;Django+APIs+%E2%86%92+React+frontends+%E2%86%92+AWS+ML.;150k+daily+transactions.+70%25+load+cut." alt="I ship end-to-end products — Django APIs, React frontends, AWS ML" />
 
