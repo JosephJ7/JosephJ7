@@ -24,14 +24,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/">
+  <a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="Connect on LinkedIn" />
   </a>
-  <!-- Replace PORTFOLIO_URL with your live portfolio link -->
-  <a href="PORTFOLIO_URL">
+  <a href="https://joseph-jacob-anjilimoottil.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=fff" alt="View portfolio" />
   </a>
-  <a href="mailto:josephjacobie2001@gmail.com">
+  <a href="mailto:josephjacobie2001@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-57606A?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email Joseph" />
   </a>
 </p>
@@ -40,21 +39,11 @@
 
 ---
 
-## 👋 About me
+## 🎯 At a glance
 
-I'm a **Full-Stack Engineer** in **Dublin, Ireland** with a fresh **MSc in Data Analytics** (National College of Ireland) and production experience at **Easebuzz**, where I was promoted twice in 22 months (Intern → SDE 1 → SDE 2).
+Full-Stack Engineer in **Dublin, Ireland** with production experience on a payments platform handling **150k+ daily transactions**. Promoted twice in 22 months (Intern → SDE 1 → SDE 2). I ship end-to-end: Django REST APIs, React/TypeScript frontends, async Python services, AWS infrastructure, and production ML on Bedrock.
 
-I own products end to end — React dashboards, Django REST APIs, async Python pipelines and AWS-backed ML services. The work is measurable: faster onboarding, cheaper processing, self-serve scale.
-
-**Currently:** open to full-stack, backend, data and ML engineering roles — Dublin or remote.
-
----
-
-## 💡 Why me in 30 seconds
-
-- **Measurable impact.** Cut backend load by **70%**, collapsed merchant onboarding from **3 days → 30 minutes** for **8,000+ merchants**, contributed to **30% gross revenue growth**.
-- **End-to-end ownership.** React/TypeScript frontends, Django REST APIs, async Python services, AWS infrastructure, Docker/Jenkins pipelines, production LLMs on Bedrock.
-- **Fast growth.** Promoted twice in 22 months, Employee of the Quarter within 3 months, MSc completed alongside distinction-level research work.
+**Looking for:** full-stack, backend, data and ML engineering roles — Dublin or remote.
 
 ---
 
@@ -84,6 +73,33 @@ I own products end to end — React dashboards, Django REST APIs, async Python p
 
 ---
 
+## 🚀 Featured Projects & Portfolio
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| <a href="https://github.com/JosephJ7/moby-dublin-telemetry" target="_blank" rel="noopener noreferrer"><b>Moby Dublin — Spark telemetry</b></a> | Event-time-windowed Spark Structured Streaming pipeline with checkpointed, fault-tolerant aggregation for fleet telemetry. 14% fewer duplicate GPS records. | `Spark` `AWS S3` `MongoDB` `Parquet` |
+| <a href="https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer" target="_blank" rel="noopener noreferrer"><b>Alzheimer's detection — Multi-IT Transformer</b></a> | Interpretable transformer with triplet attention staging Alzheimer's across 4 classes on 44,000 MRI scans, benchmarked against 4 CNN baselines. | `PyTorch` `Transformers` `A100` |
+| **AI support chat — Amazon Bedrock** *(private, Easebuzz)* | Production LLM support assistant grounded in internal product policy, with guardrails, conversation state and server-side model access. | `Bedrock` `Python` `Django` |
+| <a href="https://github.com/JosephJ7/CNN--Skin-Caner-Detection" target="_blank" rel="noopener noreferrer"><b>Skin cancer classification</b></a> | CNN lesion classifiers (InceptionV3, MobileNetV2, VGG) with transfer learning and class-weighted loss. 86% accuracy. | `TensorFlow` `Keras` |
+
+<details>
+<summary><b>📂 More projects</b></summary>
+
+<br>
+
+- <a href="https://github.com/JosephJ7/Data-mining-and-machine-learning-project" target="_blank" rel="noopener noreferrer"><b>Data mining & ML</b></a> — End-to-end analysis: cleaning, feature engineering, EDA and supervised models under cross-validation.
+- <a href="https://github.com/JosephJ7/TAPF-SCM" target="_blank" rel="noopener noreferrer"><b>Akshaya Patra fleet tracker</b></a> — Java logistics tool tracking food vans from kitchens to schools, replacing manual paper logs.
+
+</details>
+
+<p align="center">
+  <a href="https://joseph-jacob-anjilimoottil.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20full%20portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=fff" alt="View full portfolio" />
+  </a>
+</p>
+
+---
+
 ## 💼 Experience
 
 **Easebuzz — SDE 2** · Jan 2023 – Nov 2024
@@ -92,27 +108,6 @@ Payments platform handling **150k+ daily transactions**.
 - ⚡ Cut backend load by **70%** with async Python pipelines
 - ⏱️ Reduced merchant onboarding from **3 days → 30 minutes** for **8,000+ merchants**
 - 🤖 Built the first in-house LLM support assistant on Amazon Bedrock
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[Moby Dublin — Spark telemetry](https://github.com/JosephJ7/moby-dublin-telemetry)** | Event-time-windowed Spark Structured Streaming pipeline with checkpointed, fault-tolerant aggregation for fleet telemetry. 14% fewer duplicate GPS records. | `Spark` `AWS S3` `MongoDB` `Parquet` |
-| **[Alzheimer's detection — Multi-IT Transformer](https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer)** | Interpretable transformer with triplet attention staging Alzheimer's across 4 classes on 44,000 MRI scans, benchmarked against 4 CNN baselines. | `PyTorch` `Transformers` `A100` |
-| **AI support chat — Amazon Bedrock** *(private, Easebuzz)* | Production LLM support assistant grounded in internal product policy, with guardrails, conversation state and server-side model access. | `Bedrock` `Python` `Django` |
-| **[Skin cancer classification](https://github.com/JosephJ7/CNN--Skin-Caner-Detection)** | CNN lesion classifiers (InceptionV3, MobileNetV2, VGG) with transfer learning and class-weighted loss. 86% accuracy. | `TensorFlow` `Keras` |
-
-<details>
-<summary><b>📂 More projects</b></summary>
-
-<br>
-
-- **[Data mining & ML](https://github.com/JosephJ7/Data-mining-and-machine-learning-project)** — End-to-end analysis: cleaning, feature engineering, EDA and supervised models under cross-validation.
-- **[Akshaya Patra fleet tracker](https://github.com/JosephJ7/TAPF-SCM)** — Java logistics tool tracking food vans from kitchens to schools, replacing manual paper logs.
-
-</details>
 
 ---
 
@@ -163,6 +158,6 @@ Payments platform handling **150k+ daily transactions**.
 
 **Open to full-stack, backend, data and ML engineering roles — Dublin or remote.**
 
-[Email me](mailto:josephjacobie2001@gmail.com) · [Message me on LinkedIn](https://www.linkedin.com/in/joseph-jacob-anjilimoottil/) — I reply within 24 hours.
+<a href="mailto:josephjacobie2001@gmail.com" target="_blank" rel="noopener noreferrer">Email me</a> · <a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/" target="_blank" rel="noopener noreferrer">Message me on LinkedIn</a> — I reply within 24 hours.
 
 </div>
