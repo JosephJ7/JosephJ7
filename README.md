@@ -147,32 +147,6 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 
 ---
 
-## 💼 Experience
-
-**Easebuzz — SDE 2** · Jan 2023 – Nov 2024
-Payments platform handling **150k+ daily transactions**.
-
-- ⚡ Cut backend load by **70%** with async Python pipelines
-- ⏱️ Reduced merchant onboarding from **3 days → 30 minutes** for **8,000+ merchants**
-- 🤖 Built the first in-house LLM support assistant on Amazon Bedrock
-
----
-
-## 🎓 Education
-
-- **MSc Data Analytics** — National College of Ireland, Dublin
-- **B.Tech Computer Science & Engineering** — Symbiosis Institute of Technology, Pune
-
----
-
-## 🏆 Recognition
-
-- 🏅 **Employee of the Quarter** within 3 months of joining Easebuzz
-- 🚀 **Promoted twice in 22 months** — Intern → SDE 1 → SDE 2
-- 🥈 **Rank 2**, SIT CodeChef "The Bug Detective"
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
