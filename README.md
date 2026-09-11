@@ -1,38 +1,26 @@
 <div align="center">
 
-<!-- Custom terminal-style status header -->
-<pre align="center" style="font-family: 'JetBrains Mono', 'SF Mono', monospace; font-size: 13px; line-height: 1.5; background: #0f172a; color: #e2e8f0; padding: 18px 24px; border-radius: 12px; display: inline-block; text-align: left; box-shadow: 0 0 0 1px #1e293b, 0 10px 30px -10px rgba(0,0,0,0.5);">
-<span style="color:#60a5fa;">user@dublin</span>:<span style="color:#a78bfa;">~</span>$ whoami
-<span style="color:#22c55e;">Joseph Jacob Anjilimoottil</span>
-<span style="color:#60a5fa;">user@dublin</span>:<span style="color:#a78bfa;">~</span>$ cat role.txt
-Full-Stack Engineer · MSc Data Analytics · Open to Work
-<span style="color:#60a5fa;">user@dublin</span>:<span style="color:#a78bfa;">~</span>$ uptime
-system online · Dublin, IE · promoted twice in 22 months
-<span style="color:#60a5fa;">user@dublin</span>:<span style="color:#a78bfa;">~</span>$ _
-</pre>
+<!--
+  BANNER: upload `joseph-terminal-banner.png` to this repo (e.g. into an `assets/` folder)
+  and it will render below. Replace the src path if you put it somewhere else.
+-->
+<img src="assets/joseph-terminal-banner.png" alt="Joseph Jacob Anjilimoottil — Full-Stack Engineer, MSc Data Analytics, Dublin, open to work" width="100%" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=I+ship+end-to-end+products.;From+Django+APIs+to+React+frontends+to+AWS+ML.;150k+daily+transactions.+70%25+load+cut.+8k+merchants." alt="Typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=I+ship+end-to-end+products.;From+Django+APIs+to+React+frontends+to+AWS+ML.;150k+daily+transactions.+70%25+load+cut.+8k+merchants." alt="I ship end-to-end products — from Django APIs to React frontends to AWS ML" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvs/?username=JosephJ7&color=60a5fa&style=flat-square&label=profile+views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=briefcase&logoColor=fff" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Location-Dublin,%20IE-3b82f6?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Last%20Role-SDE%202%20%E2%80%A2%20Easebuzz-a855f7?style=flat-square" alt="Last role" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square&logo=briefcase&logoColor=fff" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Dublin,%20IE-3b82f6?style=flat-square" alt="Dublin, Ireland" />
+  <img src="https://img.shields.io/badge/Last%20Role-SDE%202%20%E2%80%A2%20Easebuzz-a855f7?style=flat-square" alt="Last role: SDE 2 at Easebuzz" />
 </p>
 
 </div>
 
 ---
 
-## 🧭 Mission Control
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
-### 👋 About me
+## 👋 About me
 
 I'm a **Full-Stack Engineer** based in **Dublin, Ireland**, with a fresh **MSc in Data Analytics** from the National College of Ireland and production experience at **Easebuzz**, where I was promoted twice in 22 months (Intern → SDE 1 → SDE 2).
 
@@ -40,26 +28,12 @@ I own products end to end — from React dashboards and Django REST APIs to asyn
 
 > *"I don't just write code; I design systems that solve real problems."*
 
-</td>
-    <td width="45%" valign="top">
-
-### 📡 Live status
-
-| Signal | Value |
-|--------|-------|
-| **Role** | Full-Stack Engineer |
-| **Base** | Dublin, IE |
-| **Education** | MSc Data Analytics · NCI |
-| **Last role** | SDE 2 · Easebuzz |
-| **Availability** | 🟢 Open to full-time roles |
-| **Focus** | Full-stack · Backend · Data · ML |
-
-</td>
-  </tr>
-</table>
+**Currently:** open to full-stack, backend, data and ML engineering roles — Dublin or remote.
 
 <details>
 <summary><b>🏆 Recognition & highlights (click to expand)</b></summary>
+
+<br>
 
 - 🏅 **Employee of the Quarter** within 3 months of joining Easebuzz
 - 🚀 **Promoted twice in 22 months** — Intern → SDE 1 → SDE 2
@@ -76,17 +50,6 @@ I own products end to end — from React dashboards and Django REST APIs to asyn
 
 ## 🛠️ Stack
 
-<!-- Skill meters -->
-| Skill | Level |
-|-------|-------|
-| Python | `███████████████████████████████████████████████░░░` 95% |
-| Django / REST | `██████████████████████████████████████████████░░` 92% |
-| PostgreSQL | `█████████████████████████████████████████████░░░` 88% |
-| React / TypeScript | `████████████████████████████████████████████░░░░` 86% |
-| AWS / DevOps | `███████████████████████████████████████████░░░░░` 85% |
-| Apache Spark | `███████████████████████████████████████████░░░░░` 84% |
-| PyTorch / ML | `██████████████████████████████████████████░░░░░░` 82% |
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff" alt="Django" />
@@ -95,37 +58,22 @@ I own products end to end — from React dashboards and Django REST APIs to asyn
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=fff" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" alt="GraphQL" />
 </p>
 
+**Strongest in:** Python · Django REST · PostgreSQL · React/TypeScript · AWS · Spark · PyTorch
+
 ---
 
 ## 💼 Experience
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#60a5fa', 'primaryTextColor': '#0f172a', 'primaryBorderColor': '#1e293b', 'lineColor': '#a78bfa', 'secondaryColor': '#22c55e', 'tertiaryColor': '#f472b6'}}}%%
-timeline
-    title Career Trajectory
-    2021 : Akshaya Patra Foundation
-         : Software Intern
-    2023 : Easebuzz — Intern
-         : Partner Program platform
-    2023 : Easebuzz — SDE 1
-         : Async commission engine · CI/CD
-    2024 : Easebuzz — SDE 2
-         : AI support chat · partner products
-    2025 : MSc Data Analytics
-         : National College of Ireland
-    2026 : Open to full-stack roles
-```
+### Easebuzz — Intern → SDE 1 → SDE 2 · Jan 2023 — Nov 2024
 
-### Easebuzz · Jan 2023 — Nov 2024
-
-At Easebuzz I owned full-stack products behind a payments platform handling **150,000+ daily transactions** — from React self-serve dashboards and Django REST APIs to async decision pipelines in Python asyncio and AWS-deployed ML services.
+Owned full-stack products behind a payments platform handling **150,000+ daily transactions** — React self-serve dashboards, Django REST APIs, async decision pipelines in Python asyncio, and AWS-deployed ML services.
 
 | Impact | Detail |
 |--------|--------|
@@ -134,7 +82,11 @@ At Easebuzz I owned full-stack products behind a payments platform handling **15
 | 💰 **30% revenue growth** | Via scaled self-serve merchant onboarding |
 | 🚀 **15 min deploys** | Down from 2 days across 10 services (Docker + Jenkins) |
 | 🌐 **50,000+ partners** | Reusable Django REST infrastructure, zero major incidents |
-| 🤖 **AI support chat** | First in-house LLM assistant on Amazon Bedrock |
+| 🤖 **AI support chat** | First in-house LLM assistant, built on Amazon Bedrock |
+
+### Akshaya Patra Foundation — Software Intern · 2021
+
+Built a Java logistics tool tracking food vans from kitchens to schools, replacing manual paper logs.
 
 ---
 
@@ -145,7 +97,7 @@ At Easebuzz I owned full-stack products behind a payments platform handling **15
     <td width="50%" valign="top">
 
 ### 🚌 Moby Dublin — Spark telemetry
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/moby-dublin-telemetry)
+[![Repo](https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/moby-dublin-telemetry)
 
 Event-time-windowed Spark Structured Streaming pipeline with fault-tolerant aggregation for a distributed fleet telemetry system.
 
@@ -159,7 +111,7 @@ Event-time-windowed Spark Structured Streaming pipeline with fault-tolerant aggr
     <td width="50%" valign="top">
 
 ### 🧠 Alzheimer's disease detection
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer)
+[![Repo](https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/Alzheimer-s-Disease-detection-using-Multi-IT-Transformer)
 
 Interpretable Multi-IT Transformer with Triplet Attention staging Alzheimer's across 4 classes on 44,000 MRI scans.
 
@@ -188,7 +140,7 @@ Production LLM-powered customer support chat at Easebuzz, grounded in internal p
     <td width="50%" valign="top">
 
 ### 🩺 Skin cancer classification
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/CNN--Skin-Caner-Detection)
+[![Repo](https://img.shields.io/badge/View%20repo-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/JosephJ7/CNN--Skin-Caner-Detection)
 
 CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG variants with augmentation.
 
@@ -204,6 +156,8 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 
 <details>
 <summary><b>📂 More projects (click to expand)</b></summary>
+
+<br>
 
 - **[Data mining & ML](https://github.com/JosephJ7/Data-mining-and-machine-learning-project)** — End-to-end analysis with cleaning, feature engineering, EDA and supervised models in scikit-learn under cross-validation.
 - **[Akshaya Patra fleet tracker](https://github.com/JosephJ7/TAPF-SCM)** — Java-based logistics tool tracking food vans from kitchens to schools, replacing manual paper logs.
@@ -226,18 +180,12 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JosephJ7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=percentile" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephJ7&theme=tokyonight&hide_border=true&background=0f172a&stroke=60a5fa&ring=a78bfa&fire=f472b6&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=60a5fa&sideNums=94a3b8" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=JosephJ7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=percentile" alt="GitHub stats for JosephJ7" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephJ7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0&langs_count=8" alt="Most used languages" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephJ7&theme=react-dark&hide_border=true&bg_color=0f172a&color=60a5fa&line=a78bfa&point=f472b6" alt="Contribution Graph" width="95%" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephJ7&theme=react-dark&hide_border=true&bg_color=0f172a&color=60a5fa&line=a78bfa&point=f472b6" alt="Contribution graph" width="95%" />
 
 </div>
 
@@ -246,25 +194,17 @@ CNN models for skin lesion classification — InceptionV3, MobileNetV2 and VGG v
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/" target="_blank">
+  <a href="https://www.linkedin.com/in/joseph-jacob-anjilimoottil/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
-  <a href="mailto:josephjacobie2001@gmail.com" target="_blank">
+  <a href="mailto:josephjacobie2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" />
-  </a>
-  <a href="https://github.com/JosephJ7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
   </a>
 </p>
 
----
-
 <div align="center">
 
-### 💼 Currently open to full-stack, backend, data and ML engineering roles in Dublin and remote.
-
+**Open to full-stack, backend, data and ML engineering roles in Dublin and remote.**
 If you're hiring or know of a role that fits, I'd love to chat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,22,24,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=e2e8f0" alt="Footer" />
 
 </div>
